@@ -15,3 +15,6 @@ current features:
 
 
 planning on adding more to this
+
+
+![preview](https://i.ibb.co/mBZf7BB/Screen-Shot-2021-03-18-at-6-39-49-PM.png)
